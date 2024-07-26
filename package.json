@@ -1,0 +1,23 @@
+{
+  "name": "@abhi2601/date-formatter",
+  "version": "1.0.0",
+  "description": "convert date in dd-mm-yyyy format",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi260102/date-converter.git"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhi260102/date-converter/issues"
+  },
+  "homepage": "https://github.com/Abhi260102/date-converter#readme",
+  "dependencies": {
+    "@abhi2601/date-formatter": "^1.0.0"
+  }
+}
